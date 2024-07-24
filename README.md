@@ -1,0 +1,2 @@
+# magshimim
+magshimim AI homework
